@@ -139,3 +139,5 @@ ls --color=auto
 rm students_test.csv
 courses_test.csv
 rm courses_test.csv
+__vsc_prompt_cmd_original
+ls --color=auto

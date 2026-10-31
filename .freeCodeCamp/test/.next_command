@@ -136,3 +136,4 @@ psql --username=freecodecamp --dbname=students
 psql --username=freecodecamp --dbname=students
 psql --username=freecodecamp --dbname=students
 ls --color=auto
+rm students_test.csv

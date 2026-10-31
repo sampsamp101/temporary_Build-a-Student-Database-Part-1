@@ -40,3 +40,4 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 psql --username=freecodecamp --dbname=students -c "SELECT courses.csv courses_test.csv insert_data.sh queryResults.log students.csv students_test.csv FROM majors;"
 ./insert_data.sh
+./insert_data.sh

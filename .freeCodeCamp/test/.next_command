@@ -141,3 +141,5 @@ courses_test.csv
 rm courses_test.csv
 __vsc_prompt_cmd_original
 ls --color=auto
+pg_dump
+pg_dump --help

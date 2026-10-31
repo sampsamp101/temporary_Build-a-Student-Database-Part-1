@@ -130,3 +130,4 @@ psql --username=freecodecamp --dbname=students
 SELECT courses.csv courses_test.csv insert_data.sh queryResults.log students.csv students_test.csv from students
 psql --username=freecodecamp --dbname=students
 psql --username=freecodecamp --dbname=students
+./insert_data.sh
